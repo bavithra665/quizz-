@@ -8,7 +8,7 @@
 struct Question {
     char question[256];
     char options[4][100];
-    char correctOption; // 'A', 'Ba', 'C', 'D'
+    char correctOption; // 'A', 'B', 'C', 'D'
 };
 
 // Function declarations
